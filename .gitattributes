@@ -1,1 +1,2 @@
 sig.json filter=lfs diff=lfs merge=lfs -text
+public/circuit_0000.zkey filter=lfs diff=lfs merge=lfs -text
